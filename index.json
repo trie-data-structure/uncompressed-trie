@@ -1,0 +1,1583 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/ArrayNode.js",
+    "content": "import assert from 'assert';\n\nexport default function ArrayNode(degree, value = undefined) {\n\tassert(Number.isInteger(degree) && degree >= 2);\n\tthis.a = new Array(degree);\n\tthis.v = value;\n}\n\nArrayNode.prototype.get = function (i) {\n\tassert(Number.isInteger(i) && i >= 0 && i < this.a.length);\n\treturn this.a[i];\n};\n\nArrayNode.prototype.set = function (i, value = undefined) {\n\tassert(Number.isInteger(i) && i >= 0 && i < this.a.length);\n\tthis.a[i] = new ArrayNode(this.a.length, value);\n\treturn this.a[i];\n};\n\nArrayNode.prototype.setValue = function (value) {\n\tthis.v = value;\n};\n\nArrayNode.prototype.value = function () {\n\treturn this.v;\n};\n\nArrayNode.prototype[Symbol.iterator] = function* () {\n\tconst degree = this.a.length;\n\tfor (let i = 0; i < degree; ++i) {\n\t\tconst child = this.a[i];\n\t\tif (child !== undefined) yield [i, child];\n\t}\n};\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-trie/src/ArrayNode.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "ArrayNode",
+    "memberof": "src/ArrayNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ArrayNode.js~ArrayNode",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/ArrayNode.js",
+    "importStyle": "ArrayNode",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "degree",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "undefined",
+        "defaultValue": "undefined"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "get",
+    "memberof": "src/ArrayNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ArrayNode.js~get",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ArrayNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "set",
+    "memberof": "src/ArrayNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ArrayNode.js~set",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ArrayNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "undefined",
+        "defaultValue": "undefined"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "setValue",
+    "memberof": "src/ArrayNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ArrayNode.js~setValue",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ArrayNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "value",
+    "memberof": "src/ArrayNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ArrayNode.js~value",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ArrayNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 54,
+    "kind": "function",
+    "name": "[Symbol.iterator]",
+    "memberof": "src/ArrayNode.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/ArrayNode.js~[Symbol.iterator]",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ArrayNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/ObjectNode.js",
+    "content": "export default function ObjectNode(value = undefined) {\n\tthis.a = {};\n\tthis.v = value;\n}\n\nObjectNode.prototype.get = function (i) {\n\treturn this.a[i];\n};\n\nObjectNode.prototype.set = function (i, value = undefined) {\n\tthis.a[i] = new ObjectNode(value);\n\treturn this.a[i];\n};\n\nObjectNode.prototype.setValue = function (value) {\n\tthis.v = value;\n};\n\nObjectNode.prototype.value = function () {\n\treturn this.v;\n};\n\nObjectNode.prototype[Symbol.iterator] = function* () {\n\tfor (const [i, child] of Object.entries(this.a)) {\n\t\tif (child !== undefined) yield [i, child];\n\t}\n};\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-trie/src/ObjectNode.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "ObjectNode",
+    "memberof": "src/ObjectNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ObjectNode.js~ObjectNode",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/ObjectNode.js",
+    "importStyle": "ObjectNode",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "undefined",
+        "defaultValue": "undefined"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "get",
+    "memberof": "src/ObjectNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ObjectNode.js~get",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ObjectNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "set",
+    "memberof": "src/ObjectNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ObjectNode.js~set",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ObjectNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "params": [
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "undefined",
+        "defaultValue": "undefined"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "setValue",
+    "memberof": "src/ObjectNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ObjectNode.js~setValue",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ObjectNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "value",
+    "memberof": "src/ObjectNode.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ObjectNode.js~value",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ObjectNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "[Symbol.iterator]",
+    "memberof": "src/ObjectNode.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/ObjectNode.js~[Symbol.iterator]",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/ObjectNode.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/Trie.js",
+    "content": "import {\n\tmakePath,\n\twritePath,\n\treadPath,\n\thas,\n\terasePath,\n\tenumerate,\n\tgetClosestAncestor,\n} from './trie';\n\nexport default function SimpleTrie(root) {\n\tthis.r = root;\n}\n\nSimpleTrie.prototype.set = function (key, value) {\n\treturn writePath(this.r, key, value);\n};\n\nSimpleTrie.prototype.get = function (key) {\n\treturn readPath(this.r, key);\n};\n\nSimpleTrie.prototype.has = function (key) {\n\treturn has(this.r, key);\n};\n\nSimpleTrie.prototype.getClosestAncestor = function (key) {\n\treturn getClosestAncestor(this.r, key);\n};\n\nSimpleTrie.prototype.getSubTrie = function (key) {\n\tconst root = makePath(this.r, key);\n\treturn new SimpleTrie(root);\n};\n\nSimpleTrie.prototype.delete = function (key) {\n\treturn erasePath(this.r, key);\n};\n\nSimpleTrie.prototype[Symbol.iterator] = function () {\n\treturn enumerate(this.r);\n};\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-trie/src/Trie.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "SimpleTrie",
+    "memberof": "src/Trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Trie.js~SimpleTrie",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/Trie.js",
+    "importStyle": "SimpleTrie",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [
+      {
+        "name": "root",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "set",
+    "memberof": "src/Trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Trie.js~set",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/Trie.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "params": [
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "get",
+    "memberof": "src/Trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Trie.js~get",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/Trie.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "has",
+    "memberof": "src/Trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Trie.js~has",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/Trie.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 67,
+    "kind": "function",
+    "name": "getClosestAncestor",
+    "memberof": "src/Trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Trie.js~getClosestAncestor",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/Trie.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "params": [
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "getSubTrie",
+    "memberof": "src/Trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Trie.js~getSubTrie",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/Trie.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "params": [
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "delete",
+    "memberof": "src/Trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Trie.js~delete",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/Trie.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "params": [
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "[Symbol.iterator]",
+    "memberof": "src/Trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Trie.js~[Symbol.iterator]",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-trie/src/Trie.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 40,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import ArrayNode from './ArrayNode';\nimport ObjectNode from './ObjectNode';\nimport Trie from './Trie';\nimport trie from './trie';\n\n/* eslint import/no-anonymous-default-export: [2, {\"allowObject\": true}] */\nexport default {\n\tArrayNode,\n\tObjectNode,\n\tTrie,\n\ttrie,\n};\n\nexport {ArrayNode, ObjectNode, Trie, trie};\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-trie/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "src/trie.js",
+    "content": "import assert from 'assert';\nimport {empty, push, pop} from '@aureooms/js-persistent-stack';\n\nexport const makePath = (current, key) => {\n\tassert(current !== undefined);\n\tconst itKey = key[Symbol.iterator]();\n\tfor (const part of itKey) {\n\t\tconst temporary = current.get(part);\n\t\tif (temporary === undefined) {\n\t\t\treturn makeNonExistingPath(current.set(part), itKey);\n\t\t}\n\n\t\tcurrent = temporary;\n\t}\n\n\treturn current;\n};\n\nexport const makeNonExistingPath = (current, key) => {\n\tassert(current !== undefined);\n\tfor (const part of key) current = current.set(part);\n\treturn current;\n};\n\nexport const writePath = (root, key, value) => {\n\tconst current = makePath(root, key);\n\tcurrent.setValue(value);\n\treturn current;\n};\n\nexport const readPath = (root, key) => {\n\tconst node = getReference(root, key);\n\treturn node === undefined ? undefined : node.value();\n};\n\nexport const has = (root, key) => getReference(root, key) !== undefined;\n\nexport const getReference = (current, key) => {\n\tassert(current !== undefined);\n\tfor (const part of key) {\n\t\tcurrent = current.get(part);\n\t\tif (current === undefined) return undefined;\n\t}\n\n\treturn current;\n};\n\nexport const getClosestAncestor = (ancestor, key) => {\n\tassert(ancestor !== undefined);\n\tfor (const part of key) {\n\t\tconst current = ancestor.get(part);\n\t\tif (current === undefined) return [part, ancestor];\n\t\tancestor = current;\n\t}\n\n\treturn [undefined, ancestor];\n};\n\nexport const erasePath = (current, key) => {\n\tassert(current !== undefined);\n\tfor (const part of key) {\n\t\tcurrent = current.get(part);\n\t\tif (current === undefined) return false;\n\t}\n\n\tif (current.value() === undefined) return false;\n\tcurrent.setValue(undefined);\n\treturn true;\n};\n\nexport function* enumerate(root) {\n\tassert(root !== undefined);\n\tlet prefix = empty();\n\tif (root.value() !== undefined) yield [prefix, root.value()];\n\tconst stack = [root[Symbol.iterator]()];\n\twhile (true) {\n\t\tconst it = stack.pop();\n\t\tconst {value, done} = it.next();\n\t\tif (done) {\n\t\t\tif (stack.length === 0) break;\n\t\t\tprefix = pop(prefix);\n\t\t\tcontinue;\n\t\t}\n\n\t\tstack.push(it);\n\t\tconst [k, node] = value;\n\t\tprefix = push(prefix, k);\n\t\tif (node.value() !== undefined) yield [prefix, node.value()];\n\t\tstack.push(node[Symbol.iterator]());\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-trie/src/trie.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "makePath",
+    "memberof": "src/trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~makePath",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{makePath}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "current",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "makeNonExistingPath",
+    "memberof": "src/trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~makeNonExistingPath",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{makeNonExistingPath}",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [
+      {
+        "name": "current",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "writePath",
+    "memberof": "src/trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~writePath",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{writePath}",
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "params": [
+      {
+        "name": "root",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "readPath",
+    "memberof": "src/trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~readPath",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{readPath}",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "params": [
+      {
+        "name": "root",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "function",
+    "name": "has",
+    "memberof": "src/trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~has",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{has}",
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "params": [
+      {
+        "name": "root",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "getReference",
+    "memberof": "src/trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~getReference",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{getReference}",
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "params": [
+      {
+        "name": "current",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "function",
+    "name": "getClosestAncestor",
+    "memberof": "src/trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~getClosestAncestor",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{getClosestAncestor}",
+    "description": null,
+    "lineNumber": 48,
+    "undocument": true,
+    "params": [
+      {
+        "name": "ancestor",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "erasePath",
+    "memberof": "src/trie.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~erasePath",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{erasePath}",
+    "description": null,
+    "lineNumber": 59,
+    "undocument": true,
+    "params": [
+      {
+        "name": "current",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "function",
+    "name": "enumerate",
+    "memberof": "src/trie.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/trie.js~enumerate",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-trie/src/trie.js",
+    "importStyle": "{enumerate}",
+    "description": null,
+    "lineNumber": 71,
+    "undocument": true,
+    "params": [
+      {
+        "name": "root",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": ":chains: [@aureooms/js-trie](https://aureooms.github.io/js-trie)\n==\n\nTrie data structures for JavaScript.\nSee [docs](https://aureooms.github.io/js-trie/index.html).\n\n> :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\n[![License](https://img.shields.io/github/license/aureooms/js-trie.svg)](https://raw.githubusercontent.com/aureooms/js-trie/master/LICENSE)\n[![Version](https://img.shields.io/npm/v/@aureooms/js-trie.svg)](https://www.npmjs.org/package/@aureooms/js-trie)\n[![Build](https://img.shields.io/travis/aureooms/js-trie/master.svg)](https://travis-ci.org/aureooms/js-trie/branches)\n[![Dependencies](https://img.shields.io/david/aureooms/js-trie.svg)](https://david-dm.org/aureooms/js-trie)\n[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-trie.svg)](https://david-dm.org/aureooms/js-trie?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-trie.svg)](https://github.com/aureooms/js-trie/issues)\n[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-trie.svg)](https://www.npmjs.org/package/@aureooms/js-trie)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-trie/master.svg)](https://codecov.io/gh/aureooms/js-trie)\n<!--[![Code coverage (alls)](https://img.shields.io/coveralls/github/aureooms/js-trie/master.svg)](https://coveralls.io/r/aureooms/js-trie)-->\n<!--[![Code coverage (clim)](https://img.shields.io/codeclimate/coverage/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/trends/test_coverage_new_code)-->\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/trends/technical_debt)\n[![Documentation](https://aureooms.github.io/js-trie/badge.svg)](https://aureooms.github.io/js-trie/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-trie)](https://bundlephobia.com/result?p=@aureooms/js-trie)\n",
+    "longname": "/home/aureooms/dev/js/js-trie/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-trie\",\n  \"description\": \"Trie data structures for JavaScript\",\n  \"version\": \"0.0.1\",\n  \"author\": \"aureooms\",\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"presets\": [\n      \"@babel/preset-env\"\n    ],\n    \"env\": {\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      },\n      \"development\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      },\n      \"production\": {\n        \"plugins\": [\n          \"babel-plugin-unassert\",\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      }\n    }\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-trie/issues\"\n  },\n  \"dependencies\": {\n    \"@aureooms/js-persistent-stack\": \"^0.0.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/cli\": \"7.11.6\",\n    \"@babel/core\": \"7.11.6\",\n    \"@babel/preset-env\": \"7.11.5\",\n    \"@babel/register\": \"7.11.5\",\n    \"ava\": \"3.12.1\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"1.0.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"np\": \"6.5.0\",\n    \"nyc\": \"15.1.0\",\n    \"power-assert\": \"^1.6.1\",\n    \"regenerator-runtime\": \"0.13.7\",\n    \"xo\": \"0.33.1\"\n  },\n  \"files\": [\n    \"lib\"\n  ],\n  \"homepage\": \"https://aureooms.github.io/js-trie\",\n  \"keywords\": [\n    \"data\",\n    \"structures\",\n    \"trie\"\n  ],\n  \"license\": \"AGPL-3.0\",\n  \"main\": \"lib/index.js\",\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/aureooms/js-trie\"\n  },\n  \"scripts\": {\n    \"build\": \"babel --delete-dir-on-start --env-name production src -d lib\",\n    \"cover\": \"nyc --reporter=lcov npm test\",\n    \"dev\": \"npm run lint -- --fix && npm run cover -- -- -st --fail-fast\",\n    \"esdoc\": \"esdoc\",\n    \"lint\": \"xo\",\n    \"prepare\": \"npm run build\",\n    \"release\": \"np\",\n    \"test\": \"ava\",\n    \"travis\": \"npm run lint && npm run cover\"\n  },\n  \"sideEffects\": false,\n  \"xo\": {\n    \"prettier\": true,\n    \"ignore\": [\n      \"lib\",\n      \"doc\"\n    ],\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": \"off\"\n    }\n  }\n}\n",
+    "longname": "/home/aureooms/dev/js/js-trie/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-trie/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-trie/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @aureooms/js-trie\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-trie --save\n```\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-trie\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-trie/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\n> :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\nFirst, require the polyfill at the entry point of your application\n```js\nrequire( 'regenerator-runtime/runtime' );\n// or\nimport 'regenerator-runtime/runtime.js' ;\n```\n\nThen, import the library where needed\n```js\nconst trie = require( '@aureooms/js-trie' ) ;\n// or\nimport * as trie from '@aureooms/js-trie' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-trie/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/aureooms/js-trie/tree/master/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "coverage": "0%",
+  "expectCount": 29,
+  "actualCount": 0,
+  "files": {
+    "src/ArrayNode.js": {
+      "expectCount": 6,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        9,
+        14,
+        20,
+        24,
+        28
+      ]
+    },
+    "src/ObjectNode.js": {
+      "expectCount": 6,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        6,
+        10,
+        15,
+        19,
+        23
+      ]
+    },
+    "src/Trie.js": {
+      "expectCount": 8,
+      "actualCount": 0,
+      "undocumentLines": [
+        11,
+        15,
+        19,
+        23,
+        27,
+        31,
+        36,
+        40
+      ]
+    },
+    "src/trie.js": {
+      "expectCount": 9,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        19,
+        25,
+        31,
+        36,
+        38,
+        48,
+        59,
+        71
+      ]
+    }
+  }
+}
