@@ -1,4 +1,4 @@
-[@aureooms/js-trie](https://aureooms.github.io/js-trie)
+:chains: [@aureooms/js-trie](https://aureooms.github.io/js-trie)
 ==
 
 Trie data structures for JavaScript.
