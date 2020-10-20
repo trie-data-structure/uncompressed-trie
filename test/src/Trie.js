@@ -89,7 +89,7 @@ test('SimpleTrie#get', (t) => {
 	const r = Math.random();
 	t.is(undefined, trie.get(encode('ancestor')));
 	trie.set(encode('ancestor'), 0);
-	t.is(0, trie.get(encode('ancestor')));
+	t.is(trie.get(encode('ancestor')), 0);
 	t.is(undefined, trie.get(encode('ancestors')));
 	const [i, pt] = trie.getClosestAncestor(encode('ancestors'));
 	t.is(code('s', 0), i);
@@ -109,13 +109,13 @@ test('SimpleTrie#delete', (t) => {
 	const r = Math.random();
 	const key = 'abracadabra';
 	t.is(undefined, trie.get(encode(key)));
-	t.is(false, trie.delete(encode(key)));
+	t.is(trie.delete(encode(key)), false);
 	t.is(undefined, trie.get(encode(key)));
 	const node = trie.set(encode(key), r);
 	t.is(r, node.value());
 	t.is(r, trie.get(encode(key)));
-	t.is(true, trie.delete(encode(key)));
+	t.is(trie.delete(encode(key)), true);
 	t.is(undefined, trie.get(encode(key)));
-	t.is(false, trie.delete(encode(key)));
+	t.is(trie.delete(encode(key)), false);
 	t.is(undefined, trie.get(encode(key)));
 });
