@@ -18,8 +18,6 @@ See [docs](https://aureooms.github.io/js-trie/index.html).
 [![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/issues)
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-trie/main.svg)](https://codecov.io/gh/aureooms/js-trie)
-<!--[![Code coverage (alls)](https://img.shields.io/coveralls/github/aureooms/js-trie/main.svg)](https://coveralls.io/r/aureooms/js-trie)-->
-<!--[![Code coverage (clim)](https://img.shields.io/codeclimate/coverage/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/trends/test_coverage_new_code)-->
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/trends/technical_debt)
 [![Documentation](https://aureooms.github.io/js-trie/badge.svg)](https://aureooms.github.io/js-trie/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-trie)](https://bundlephobia.com/result?p=@aureooms/js-trie)
