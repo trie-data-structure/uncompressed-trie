@@ -18,7 +18,7 @@ domReady(function () {
 
 	const testlink = document.querySelector('header > a[data-ice="testLink"]');
 	testlink.href =
-		'https://coveralls.io/github/trie-data-structure/uncompressed-trie';
+		'https://app.codecov.io/gh/trie-data-structure/uncompressed-trie';
 	testlink.target = '_BLANK';
 
 	const searchBox = document.querySelector('.search-box');
