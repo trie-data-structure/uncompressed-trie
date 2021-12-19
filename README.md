@@ -9,7 +9,7 @@ See [docs](https://trie-data-structure.github.io/uncompressed-trie/index.html).
 
 [![License](https://img.shields.io/github/license/trie-data-structure/uncompressed-trie.svg)](https://raw.githubusercontent.com/trie-data-structure/uncompressed-trie/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@trie-data-structure/uncompressed-trie.svg)](https://www.npmjs.org/package/@trie-data-structure/uncompressed-trie)
-[![Build](https://img.shields.io/travis/trie-data-structure/uncompressed-trie/main.svg)](https://travis-ci.com/trie-data-structure/uncompressed-trie/branches)
+[![Tests](https://img.shields.io/github/workflow/status/trie-data-structure/uncompressed-trie/ci:test?event=push&label=tests)](https://github.com/trie-data-structure/uncompressed-trie/actions/workflows/ci:test.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/david/trie-data-structure/uncompressed-trie.svg)](https://david-dm.org/trie-data-structure/uncompressed-trie)
 [![Dev dependencies](https://img.shields.io/david/dev/trie-data-structure/uncompressed-trie.svg)](https://david-dm.org/trie-data-structure/uncompressed-trie?type=dev)
 [![GitHub issues](https://img.shields.io/github/issues/trie-data-structure/uncompressed-trie.svg)](https://github.com/trie-data-structure/uncompressed-trie/issues)
