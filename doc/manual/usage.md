@@ -5,14 +5,14 @@
 
 First, require the polyfill at the entry point of your application
 ```js
-require( 'regenerator-runtime/runtime' );
+await import( 'regenerator-runtime/runtime.js' );
 // or
 import 'regenerator-runtime/runtime.js' ;
 ```
 
 Then, import the library where needed
 ```js
-const trie = require( '@trie-data-structure/uncompressed-trie' ) ;
+const trie = await import( '@trie-data-structure/uncompressed-trie' ) ;
 // or
 import * as trie from '@trie-data-structure/uncompressed-trie' ;
 ```
