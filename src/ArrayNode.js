@@ -2,6 +2,7 @@ import assert from 'assert';
 
 export default function ArrayNode(degree, value = undefined) {
 	assert(Number.isInteger(degree) && degree >= 2);
+	// eslint-disable-next-line unicorn/no-new-array
 	this.a = new Array(degree);
 	this.v = value;
 }

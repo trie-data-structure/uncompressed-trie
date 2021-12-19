@@ -6,7 +6,7 @@ import {
 	erasePath,
 	enumerate,
 	getClosestAncestor,
-} from './trie';
+} from './core.js';
 
 export default function SimpleTrie(root) {
 	this.r = root;

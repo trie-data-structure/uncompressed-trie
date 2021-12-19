@@ -1,8 +1,15 @@
 import test from 'ava';
 
-import {range, map} from '@aureooms/js-itertools';
-import {iter} from '@aureooms/js-persistent-stack';
-import {Trie, ArrayNode} from '../../src';
+import {range} from '@iterable-iterator/range';
+import {map} from '@iterable-iterator/map';
+import {iter} from '@functional-data-structure/persistent-stack';
+import {Trie, ArrayNode} from '../../src/index.js';
+
+// eslint-disable-next-line unicorn/prefer-code-point
+const charCodeAt = (key, i) => key.charCodeAt(i);
+
+// eslint-disable-next-line unicorn/prefer-code-point
+const fromCharCode = (x) => String.fromCharCode(x);
 
 test('Trie', (t) => {
 	const object = {
@@ -15,11 +22,12 @@ test('Trie', (t) => {
 	};
 
 	const degree = 256;
-	const encode = (key) => map((i) => key.charCodeAt(i), range(key.length));
+	const encode = (key) => map((i) => charCodeAt(key, i), range(key.length));
 	const decode = (parts) =>
 		[...iter(parts)]
 			.reverse()
-			.map((x) => String.fromCharCode(x))
+			// eslint-disable-next-line unicorn/no-array-callback-reference
+			.map(fromCharCode)
 			.join('');
 	const root = new ArrayNode(degree);
 	const trie = new Trie(root);
@@ -64,7 +72,7 @@ test('Trie', (t) => {
 });
 
 test('SimpleTrie#getClosestAncestor', (t) => {
-	const code = (key, i) => key.charCodeAt(i);
+	const code = charCodeAt;
 	const encode = (key) => map((i) => code(key, i), range(key.length));
 	const degree = 256;
 	const root = new ArrayNode(degree);
@@ -81,7 +89,7 @@ test('SimpleTrie#getClosestAncestor', (t) => {
 });
 
 test('SimpleTrie#get', (t) => {
-	const code = (key, i) => key.charCodeAt(i);
+	const code = charCodeAt;
 	const encode = (key) => map((i) => code(key, i), range(key.length));
 	const degree = 256;
 	const root = new ArrayNode(degree);
@@ -101,7 +109,7 @@ test('SimpleTrie#get', (t) => {
 });
 
 test('SimpleTrie#delete', (t) => {
-	const code = (key, i) => key.charCodeAt(i);
+	const code = charCodeAt;
 	const encode = (key) => map((i) => code(key, i), range(key.length));
 	const degree = 256;
 	const root = new ArrayNode(degree);

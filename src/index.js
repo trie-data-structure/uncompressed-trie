@@ -1,14 +1,5 @@
-import ArrayNode from './ArrayNode';
-import ObjectNode from './ObjectNode';
-import Trie from './Trie';
-import trie from './trie';
+export * as trie from './core.js';
 
-/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
-export default {
-	ArrayNode,
-	ObjectNode,
-	Trie,
-	trie,
-};
-
-export {ArrayNode, ObjectNode, Trie, trie};
+export {default as ArrayNode} from './ArrayNode.js';
+export {default as ObjectNode} from './ObjectNode.js';
+export {default as Trie} from './Trie.js';

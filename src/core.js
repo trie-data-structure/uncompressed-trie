@@ -1,5 +1,5 @@
 import assert from 'assert';
-import {empty, push, pop} from '@aureooms/js-persistent-stack';
+import {empty, push, pop} from '@functional-data-structure/persistent-stack';
 
 export const makePath = (current, key) => {
 	assert(current !== undefined);

@@ -1,7 +1,7 @@
 import test from 'ava';
 
-import {iter} from '@aureooms/js-persistent-stack';
-import {Trie, ObjectNode} from '../../src';
+import {iter} from '@functional-data-structure/persistent-stack';
+import {Trie, ObjectNode} from '../../src/index.js';
 
 test('Trie', (t) => {
 	const object = {
