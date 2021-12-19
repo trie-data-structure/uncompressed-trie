@@ -2,7 +2,66 @@
   "name": "@trie-data-structure/uncompressed-trie",
   "description": "Trie data structures for JavaScript",
   "version": "0.0.1",
+  "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
+  "homepage": "https://trie-data-structure.github.io/uncompressed-trie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trie-data-structure/uncompressed-trie"
+  },
+  "bugs": {
+    "url": "https://github.com/trie-data-structure/uncompressed-trie/issues"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "trie"
+  ],
+  "sideEffects": false,
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "babel --delete-dir-on-start --env-name production src -d lib",
+    "cover": "nyc --reporter=lcov npm test",
+    "dev": "npm run lint -- --fix && npm run cover -- -- -st --fail-fast",
+    "esdoc": "esdoc",
+    "lint": "xo",
+    "lint-config": "fixpack --dryRun",
+    "lint-config-and-fix": "fixpack || fixpack",
+    "prepare": "npm run build",
+    "release": "np",
+    "test": "ava",
+    "travis": "npm run lint && npm run cover"
+  },
+  "dependencies": {
+    "@functional-data-structure/persistent-stack": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.16.0",
+    "@babel/core": "7.16.5",
+    "@babel/preset-env": "7.16.5",
+    "@babel/register": "7.16.5",
+    "@iterable-iterator/map": "^1.0.1",
+    "@iterable-iterator/range": "^2.1.0",
+    "ava": "3.15.0",
+    "babel-plugin-transform-remove-console": "6.9.4",
+    "babel-plugin-unassert": "3.2.0",
+    "babel-preset-power-assert": "3.0.0",
+    "coveralls": "3.1.1",
+    "esdoc": "1.1.0",
+    "esdoc-ecmascript-proposal-plugin": "1.0.0",
+    "esdoc-inject-script-plugin": "1.0.0",
+    "esdoc-inject-style-plugin": "1.0.0",
+    "esdoc-standard-plugin": "1.0.0",
+    "fixpack": "4.0.0",
+    "np": "7.6.0",
+    "nyc": "15.1.0",
+    "power-assert": "1.6.1",
+    "regenerator-runtime": "0.13.9",
+    "xo": "0.47.0"
+  },
   "ava": {
     "files": [
       "test/src/**/*"
@@ -72,68 +131,9 @@
       }
     }
   },
-  "bugs": {
-    "url": "https://github.com/trie-data-structure/uncompressed-trie/issues"
-  },
-  "dependencies": {
-    "@functional-data-structure/persistent-stack": "^1.0.0"
-  },
-  "devDependencies": {
-    "@babel/cli": "7.16.0",
-    "@babel/core": "7.16.5",
-    "@babel/preset-env": "7.16.5",
-    "@babel/register": "7.16.5",
-    "@iterable-iterator/map": "^1.0.1",
-    "@iterable-iterator/range": "^2.1.0",
-    "ava": "3.15.0",
-    "babel-plugin-transform-remove-console": "6.9.4",
-    "babel-plugin-unassert": "3.2.0",
-    "babel-preset-power-assert": "3.0.0",
-    "coveralls": "3.1.1",
-    "esdoc": "1.1.0",
-    "esdoc-ecmascript-proposal-plugin": "1.0.0",
-    "esdoc-inject-script-plugin": "1.0.0",
-    "esdoc-inject-style-plugin": "1.0.0",
-    "esdoc-standard-plugin": "1.0.0",
-    "np": "7.6.0",
-    "nyc": "15.1.0",
-    "power-assert": "1.6.1",
-    "regenerator-runtime": "0.13.9",
-    "xo": "0.47.0",
-    "fixpack": "4.0.0"
-  },
-  "files": [
-    "lib"
-  ],
-  "homepage": "https://trie-data-structure.github.io/uncompressed-trie",
-  "keywords": [
-    "data",
-    "structures",
-    "trie"
-  ],
-  "license": "AGPL-3.0",
-  "main": "lib/index.js",
   "prettier": {
     "trailingComma": "all"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/trie-data-structure/uncompressed-trie"
-  },
-  "scripts": {
-    "build": "babel --delete-dir-on-start --env-name production src -d lib",
-    "cover": "nyc --reporter=lcov npm test",
-    "dev": "npm run lint -- --fix && npm run cover -- -- -st --fail-fast",
-    "esdoc": "esdoc",
-    "lint": "xo",
-    "prepare": "npm run build",
-    "release": "np",
-    "test": "ava",
-    "travis": "npm run lint && npm run cover",
-    "lint-config-and-fix": "fixpack || fixpack",
-    "lint-config": "fixpack --dryRun"
-  },
-  "sideEffects": false,
   "xo": {
     "prettier": true,
     "plugins": [
