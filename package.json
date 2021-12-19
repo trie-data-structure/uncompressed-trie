@@ -6,8 +6,8 @@
   "author": "make-github-pseudonymous-again",
   "homepage": "https://trie-data-structure.github.io/uncompressed-trie",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/trie-data-structure/uncompressed-trie"
+    "url": "https://github.com/trie-data-structure/uncompressed-trie",
+    "type": "git"
   },
   "bugs": {
     "url": "https://github.com/trie-data-structure/uncompressed-trie/issues"

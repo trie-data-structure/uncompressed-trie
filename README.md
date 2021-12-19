@@ -4,7 +4,8 @@
 Trie data structures for JavaScript.
 See [docs](https://trie-data-structure.github.io/uncompressed-trie/index.html).
 
-> :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing
+> :warning: Depending on your environment, the code may require
+> `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
 
 [![License](https://img.shields.io/github/license/trie-data-structure/uncompressed-trie.svg)](https://raw.githubusercontent.com/trie-data-structure/uncompressed-trie/main/LICENSE)
