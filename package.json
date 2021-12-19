@@ -194,10 +194,6 @@
       "unicorn/prefer-node-protocol": "off",
       "unicorn/filename-case": "off"
     },
-    "ignores": [
-      "lib",
-      "doc"
-    ],
     "overrides": [
       {
         "files": [
