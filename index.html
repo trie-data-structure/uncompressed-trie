@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <base data-ice="baseUrl">
-  <title data-ice="title">Home | @aureooms/js-trie</title>
+  <title data-ice="title">Home | @trie-data-structure/uncompressed-trie</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
   <script src="script/manual.js"></script>
-<link rel="stylesheet" href="./inject/css/0-style.css"><script src="./inject/script/0-header.js"></script><meta name="description" content="Trie data structures for JavaScript"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@aureooms/js-trie"><meta property="twitter:description" content="Trie data structures for JavaScript"></head>
+<link rel="stylesheet" href="./inject/css/0-style.css"><script src="./inject/script/0-header.js"></script><meta name="description" content="Trie data structures for JavaScript"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@trie-data-structure/uncompressed-trie"><meta property="twitter:description" content="Trie data structures for JavaScript"></head>
 <body class="layout-container" data-ice="rootContainer">
 
 <header>
@@ -24,7 +24,7 @@
   </span>
     <ul class="search-result"></ul>
   </div>
-<a style="position:relative; top:3px;" href="https://github.com/aureooms/js-trie"><img width="20px" src="./image/github.png"></a></header>
+<a style="position:relative; top:3px;" href="https://github.com/trie-data-structure/uncompressed-trie"><img width="20px" src="./image/github.png"></a></header>
 
 <nav class="navigation" data-ice="nav"><div>
   <ul>
@@ -45,27 +45,45 @@
 </div>
 </nav>
 
-<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-chains---a-href--https---aureooms-github-io-js-trie---aureooms-js-trie--a-">:chains: <a href="https://aureooms.github.io/js-trie">@aureooms/js-trie</a></h1><p>Trie data structures for JavaScript.
-See <a href="https://aureooms.github.io/js-trie/index.html">docs</a>.</p>
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-chains---a-href--https---trie-data-structure-github-io-uncompressed-trie---trie-data-structure-uncompressed-trie--a-">:chains: <a href="https://trie-data-structure.github.io/uncompressed-trie">@trie-data-structure/uncompressed-trie</a></h1><p>Trie data structures for JavaScript.
+See <a href="https://trie-data-structure.github.io/uncompressed-trie/index.html">docs</a>.</p>
 <blockquote>
-<p>:warning: The code requires <code>regeneratorRuntime</code> to be defined, for instance by importing
+<p>:warning: Depending on your environment, the code may require
+<code>regeneratorRuntime</code> to be defined, for instance by importing
 <a href="https://www.npmjs.com/package/regenerator-runtime">regenerator-runtime/runtime</a>.</p>
 </blockquote>
-<p><a href="https://raw.githubusercontent.com/aureooms/js-trie/master/LICENSE"><img src="https://img.shields.io/github/license/aureooms/js-trie.svg" alt="License"></a>
-<a href="https://www.npmjs.org/package/@aureooms/js-trie"><img src="https://img.shields.io/npm/v/@aureooms/js-trie.svg" alt="Version"></a>
-<a href="https://travis-ci.org/aureooms/js-trie/branches"><img src="https://img.shields.io/travis/aureooms/js-trie/master.svg" alt="Build"></a>
-<a href="https://david-dm.org/aureooms/js-trie"><img src="https://img.shields.io/david/aureooms/js-trie.svg" alt="Dependencies"></a>
-<a href="https://david-dm.org/aureooms/js-trie?type=dev"><img src="https://img.shields.io/david/dev/aureooms/js-trie.svg" alt="Dev dependencies"></a>
-<a href="https://github.com/aureooms/js-trie/issues"><img src="https://img.shields.io/github/issues/aureooms/js-trie.svg" alt="GitHub issues"></a>
-<a href="https://www.npmjs.org/package/@aureooms/js-trie"><img src="https://img.shields.io/npm/dm/@aureooms/js-trie.svg" alt="Downloads"></a></p>
-<p><a href="https://codeclimate.com/github/aureooms/js-trie/issues"><img src="https://img.shields.io/codeclimate/issues/aureooms/js-trie.svg" alt="Code issues"></a>
-<a href="https://codeclimate.com/github/aureooms/js-trie/trends/churn"><img src="https://img.shields.io/codeclimate/maintainability/aureooms/js-trie.svg" alt="Code maintainability"></a>
-<a href="https://codecov.io/gh/aureooms/js-trie"><img src="https://img.shields.io/codecov/c/gh/aureooms/js-trie/master.svg" alt="Code coverage (cov)"></a>
-<!--[![Code coverage (alls)](https://img.shields.io/coveralls/github/aureooms/js-trie/master.svg)](https://coveralls.io/r/aureooms/js-trie)-->
-<!--[![Code coverage (clim)](https://img.shields.io/codeclimate/coverage/aureooms/js-trie.svg)](https://codeclimate.com/github/aureooms/js-trie/trends/test_coverage_new_code)-->
-<a href="https://codeclimate.com/github/aureooms/js-trie/trends/technical_debt"><img src="https://img.shields.io/codeclimate/tech-debt/aureooms/js-trie.svg" alt="Code technical debt"></a>
-<a href="https://aureooms.github.io/js-trie/source.html"><img src="https://aureooms.github.io/js-trie/badge.svg" alt="Documentation"></a>
-<a href="https://bundlephobia.com/result?p=@aureooms/js-trie"><img src="https://img.shields.io/bundlephobia/minzip/@aureooms/js-trie" alt="Package size"></a></p>
+<pre><code class="lang-js"><code class="source-code prettyprint">import {Trie, ArrayNode} from &apos;@trie-data-structure/uncompressed-trie&apos;;
+import {range} from &apos;@iterable-iterator/range&apos;;
+import {map} from &apos;@iterable-iterator/map&apos;;
+
+const encode = (key) =&gt; map((i) =&gt; key.charCodeAt(i), range(key.length));
+const degree = 256;
+const trie = new Trie(new ArrayNode(degree));
+
+const set = (key, value) =&gt; trie.set(encode(key), value);
+const get = (key) =&gt; trie.get(encode(key));
+
+set(&apos;abra&apos;, 1);
+set(&apos;cadabra&apos;, 2);
+set(&apos;abracadabra&apos;, 3);
+
+get(&apos;abra&apos;); // 1
+get(&apos;cadabra&apos;); // 2
+get(&apos;abracadabra&apos;); // 3</code>
+</code></pre>
+<p><a href="https://raw.githubusercontent.com/trie-data-structure/uncompressed-trie/main/LICENSE"><img src="https://img.shields.io/github/license/trie-data-structure/uncompressed-trie.svg" alt="License"></a>
+<a href="https://www.npmjs.org/package/@trie-data-structure/uncompressed-trie"><img src="https://img.shields.io/npm/v/@trie-data-structure/uncompressed-trie.svg" alt="Version"></a>
+<a href="https://github.com/trie-data-structure/uncompressed-trie/actions/workflows/ci:test.yml?query=branch:main"><img src="https://img.shields.io/github/workflow/status/trie-data-structure/uncompressed-trie/ci:test?event=push&amp;label=tests" alt="Tests"></a>
+<a href="https://david-dm.org/trie-data-structure/uncompressed-trie"><img src="https://img.shields.io/david/trie-data-structure/uncompressed-trie.svg" alt="Dependencies"></a>
+<a href="https://david-dm.org/trie-data-structure/uncompressed-trie?type=dev"><img src="https://img.shields.io/david/dev/trie-data-structure/uncompressed-trie.svg" alt="Dev dependencies"></a>
+<a href="https://github.com/trie-data-structure/uncompressed-trie/issues"><img src="https://img.shields.io/github/issues/trie-data-structure/uncompressed-trie.svg" alt="GitHub issues"></a>
+<a href="https://www.npmjs.org/package/@trie-data-structure/uncompressed-trie"><img src="https://img.shields.io/npm/dm/@trie-data-structure/uncompressed-trie.svg" alt="Downloads"></a></p>
+<p><a href="https://codeclimate.com/github/trie-data-structure/uncompressed-trie/issues"><img src="https://img.shields.io/codeclimate/issues/trie-data-structure/uncompressed-trie.svg" alt="Code issues"></a>
+<a href="https://codeclimate.com/github/trie-data-structure/uncompressed-trie/trends/churn"><img src="https://img.shields.io/codeclimate/maintainability/trie-data-structure/uncompressed-trie.svg" alt="Code maintainability"></a>
+<a href="https://codecov.io/gh/trie-data-structure/uncompressed-trie"><img src="https://img.shields.io/codecov/c/gh/trie-data-structure/uncompressed-trie/main.svg" alt="Code coverage (cov)"></a>
+<a href="https://codeclimate.com/github/trie-data-structure/uncompressed-trie/trends/technical_debt"><img src="https://img.shields.io/codeclimate/tech-debt/trie-data-structure/uncompressed-trie.svg" alt="Code technical debt"></a>
+<a href="https://trie-data-structure.github.io/uncompressed-trie/source.html"><img src="https://trie-data-structure.github.io/uncompressed-trie/badge.svg" alt="Documentation"></a>
+<a href="https://bundlephobia.com/result?p=@trie-data-structure/uncompressed-trie"><img src="https://img.shields.io/bundlephobia/minzip/@trie-data-structure/uncompressed-trie" alt="Package size"></a></p>
 </div>
 </div>
 

@@ -8,11 +8,11 @@
       "actualCount": 0,
       "undocumentLines": [
         3,
-        9,
-        14,
-        20,
-        24,
-        28
+        10,
+        15,
+        21,
+        25,
+        29
       ]
     },
     "src/ObjectNode.js": {
@@ -41,7 +41,7 @@
         40
       ]
     },
-    "src/trie.js": {
+    "src/core.js": {
       "expectCount": 9,
       "actualCount": 0,
       "undocumentLines": [

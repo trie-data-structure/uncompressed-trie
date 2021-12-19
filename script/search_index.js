@@ -1,74 +1,74 @@
 window.esdocSearchIndex = [
   [
-    "@aureooms/js-trie/src/arraynode.js~arraynode",
+    "@trie-data-structure/uncompressed-trie/src/arraynode.js~arraynode",
     "function/index.html#static-function-ArrayNode",
-    "<span>ArrayNode</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/ArrayNode.js</span>",
+    "<span>ArrayNode</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/ArrayNode.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/objectnode.js~objectnode",
+    "@trie-data-structure/uncompressed-trie/src/objectnode.js~objectnode",
     "function/index.html#static-function-ObjectNode",
-    "<span>ObjectNode</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/ObjectNode.js</span>",
+    "<span>ObjectNode</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/ObjectNode.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~simpletrie",
+    "@trie-data-structure/uncompressed-trie/src/trie.js~simpletrie",
     "function/index.html#static-function-SimpleTrie",
-    "<span>SimpleTrie</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/Trie.js</span>",
+    "<span>SimpleTrie</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/Trie.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~enumerate",
+    "@trie-data-structure/uncompressed-trie/src/core.js~enumerate",
     "function/index.html#static-function-enumerate",
-    "<span>enumerate</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>enumerate</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~erasepath",
+    "@trie-data-structure/uncompressed-trie/src/core.js~erasepath",
     "function/index.html#static-function-erasePath",
-    "<span>erasePath</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>erasePath</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~getclosestancestor",
+    "@trie-data-structure/uncompressed-trie/src/core.js~getclosestancestor",
     "function/index.html#static-function-getClosestAncestor",
-    "<span>getClosestAncestor</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>getClosestAncestor</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~getreference",
+    "@trie-data-structure/uncompressed-trie/src/core.js~getreference",
     "function/index.html#static-function-getReference",
-    "<span>getReference</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>getReference</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~has",
+    "@trie-data-structure/uncompressed-trie/src/core.js~has",
     "function/index.html#static-function-has",
-    "<span>has</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>has</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~makenonexistingpath",
+    "@trie-data-structure/uncompressed-trie/src/core.js~makenonexistingpath",
     "function/index.html#static-function-makeNonExistingPath",
-    "<span>makeNonExistingPath</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>makeNonExistingPath</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~makepath",
+    "@trie-data-structure/uncompressed-trie/src/core.js~makepath",
     "function/index.html#static-function-makePath",
-    "<span>makePath</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>makePath</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~readpath",
+    "@trie-data-structure/uncompressed-trie/src/core.js~readpath",
     "function/index.html#static-function-readPath",
-    "<span>readPath</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>readPath</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-trie/src/trie.js~writepath",
+    "@trie-data-structure/uncompressed-trie/src/core.js~writepath",
     "function/index.html#static-function-writePath",
-    "<span>writePath</span> <span class=\"search-result-import-path\">@aureooms/js-trie/src/trie.js</span>",
+    "<span>writePath</span> <span class=\"search-result-import-path\">@trie-data-structure/uncompressed-trie/src/core.js</span>",
     "function"
   ],
   [
@@ -372,15 +372,9 @@ window.esdocSearchIndex = [
     "file"
   ],
   [
-    "src/index.js",
-    "file/src/index.js.html",
-    "src/index.js",
-    "file"
-  ],
-  [
-    "src/trie.js",
-    "file/src/trie.js.html",
-    "src/trie.js",
+    "src/core.js",
+    "file/src/core.js.html",
+    "src/core.js",
     "file"
   ]
 ]
