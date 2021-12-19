@@ -8,15 +8,15 @@ or [jspm](https://jspm.org/docs).
 
 ### yarn
 ```terminal
-yarn add @aureooms/js-trie
+yarn add @trie-data-structure/uncompressed-trie
 ```
 
 ### npm
 ```terminal
-npm install @aureooms/js-trie --save
+npm install @trie-data-structure/uncompressed-trie --save
 ```
 
 ### jspm
 ```terminal
-jspm install npm:@aureooms/js-trie
+jspm install npm:@trie-data-structure/uncompressed-trie
 ```

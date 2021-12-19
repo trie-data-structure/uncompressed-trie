@@ -1,8 +1,8 @@
 {
-  "name": "@aureooms/js-trie",
+  "name": "@trie-data-structure/uncompressed-trie",
   "description": "Trie data structures for JavaScript",
   "version": "0.0.1",
-  "author": "aureooms",
+  "author": "make-github-pseudonymous-again",
   "ava": {
     "files": [
       "test/src/**/*"
@@ -73,7 +73,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-trie/issues"
+    "url": "https://github.com/trie-data-structure/uncompressed-trie/issues"
   },
   "dependencies": {
     "@functional-data-structure/persistent-stack": "^1.0.0"
@@ -104,7 +104,7 @@
   "files": [
     "lib"
   ],
-  "homepage": "https://make-github-pseudonymous-again.github.io/js-trie",
+  "homepage": "https://trie-data-structure.github.io/uncompressed-trie",
   "keywords": [
     "data",
     "structures",
@@ -117,7 +117,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/make-github-pseudonymous-again/js-trie"
+    "url": "https://github.com/trie-data-structure/uncompressed-trie"
   },
   "scripts": {
     "build": "babel --delete-dir-on-start --env-name production src -d lib",

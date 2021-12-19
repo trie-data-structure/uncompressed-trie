@@ -12,7 +12,7 @@ import 'regenerator-runtime/runtime.js' ;
 
 Then, import the library where needed
 ```js
-const trie = require( '@aureooms/js-trie' ) ;
+const trie = require( '@trie-data-structure/uncompressed-trie' ) ;
 // or
-import * as trie from '@aureooms/js-trie' ;
+import * as trie from '@trie-data-structure/uncompressed-trie' ;
 ```
