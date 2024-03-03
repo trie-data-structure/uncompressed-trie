@@ -31,7 +31,7 @@ get('abracadabra'); // 3
 
 [![License](https://img.shields.io/github/license/trie-data-structure/uncompressed-trie.svg)](https://raw.githubusercontent.com/trie-data-structure/uncompressed-trie/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@trie-data-structure/uncompressed-trie.svg)](https://www.npmjs.org/package/@trie-data-structure/uncompressed-trie)
-[![Tests](https://img.shields.io/github/workflow/status/trie-data-structure/uncompressed-trie/ci?event=push&label=tests)](https://github.com/trie-data-structure/uncompressed-trie/actions/workflows/ci.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/actions/workflow/status/trie-data-structure/uncompressed-trie/ci.yml?branch=main&event=push&label=tests)](https://github.com/trie-data-structure/uncompressed-trie/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/trie-data-structure/uncompressed-trie.svg)](https://github.com/trie-data-structure/uncompressed-trie/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/trie-data-structure/uncompressed-trie.svg)](https://github.com/trie-data-structure/uncompressed-trie/issues)
 [![Downloads](https://img.shields.io/npm/dm/@trie-data-structure/uncompressed-trie.svg)](https://www.npmjs.org/package/@trie-data-structure/uncompressed-trie)
