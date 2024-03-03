@@ -3,7 +3,7 @@ import test from 'ava';
 import {range} from '@iterable-iterator/range';
 import {map} from '@iterable-iterator/map';
 
-import {Trie, ArrayNode} from '../../src/index.js';
+import {Trie, ArrayNode} from '#module';
 
 test('README', (t) => {
 	// eslint-disable-next-line unicorn/prefer-code-point

@@ -3,7 +3,7 @@ import test from 'ava';
 import {range} from '@iterable-iterator/range';
 import {map} from '@iterable-iterator/map';
 import {iter} from '@functional-data-structure/persistent-stack';
-import {Trie, ArrayNode} from '../../src/index.js';
+import {Trie, ArrayNode} from '#module';
 
 // eslint-disable-next-line unicorn/prefer-code-point
 const charCodeAt = (key, i) => key.charCodeAt(i);
