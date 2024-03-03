@@ -1,6 +1,7 @@
 import test from 'ava';
 
 import {iter} from '@functional-data-structure/persistent-stack';
+
 import {Trie, ObjectNode} from '#module';
 
 test('Trie', (t) => {

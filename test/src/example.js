@@ -1,7 +1,7 @@
 import test from 'ava';
 
-import {range} from '@iterable-iterator/range';
 import {map} from '@iterable-iterator/map';
+import {range} from '@iterable-iterator/range';
 
 import {Trie, ArrayNode} from '#module';
 

@@ -1,8 +1,9 @@
 import test from 'ava';
 
-import {range} from '@iterable-iterator/range';
-import {map} from '@iterable-iterator/map';
 import {iter} from '@functional-data-structure/persistent-stack';
+import {map} from '@iterable-iterator/map';
+import {range} from '@iterable-iterator/range';
+
 import {Trie, ArrayNode} from '#module';
 
 // eslint-disable-next-line unicorn/prefer-code-point
